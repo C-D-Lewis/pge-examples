@@ -36,21 +36,6 @@
   ],
   "resources": {
     "media": [
-      {
-        "type":"png",
-        "name":"SHIP",
-        "file":"images/ship.png"
-      },
-      {
-        "type":"png",
-        "name":"SHOT",
-        "file":"images/shot.png"
-      },
-      {
-        "type":"png",
-        "name":"ROCK",
-        "file":"images/rock.png"
-      }
     ]
   }
 }
