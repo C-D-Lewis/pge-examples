@@ -1,7 +1,7 @@
 {
-  "uuid": "701253d4-450d-4bf4-b6d2-7ee99946542a",
-  "shortName": "PGE Example",
-  "longName": "PGE Example",
+  "uuid": "3FC92648-016C-4B7C-B472-23631A627E87",
+  "shortName": "PGE Websocket Example",
+  "longName": "PGE Websocket Example",
   "companyName": "Chris Lewis",
   "versionCode": 1,
   "versionLabel": "1.0",
