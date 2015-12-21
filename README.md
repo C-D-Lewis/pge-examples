@@ -1,6 +1,11 @@
-# pge-examples
+# pge-examples (blocks)
 
-Collection of example games written with [PGE](https://github.com/C-D-Lewis/pge).
+![](screenshot.png)
+
+Animated isometric blocks demo written with [PGE](https://github.com/C-D-Lewis/pge).
+
+
+## Other Examples
 
 Switch between branches to see different examples.
 
