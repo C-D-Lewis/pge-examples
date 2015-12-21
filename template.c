@@ -25,7 +25,7 @@ static void game_click(int button_id, bool long_click) {
 
 void pge_init() {
   // Start the game
-  pge_begin(GColorBlack, game_logic, game_draw, game_click);
+  pge_begin(game_logic, game_draw, game_click);
 
   // Keep a Window reference for adding other UI
   s_game_window = pge_get_window();
